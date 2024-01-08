@@ -5,10 +5,10 @@
 <div align="center">
   <a href="https://github.com/camillerodriguees">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camillerodriguees&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillerodriguees&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ##
-![Snake animation](https://github.com/camillerodriguees/camillerodriguees/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=120&section=footer"/>
