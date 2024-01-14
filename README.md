@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/camillerodriguees">
   <img width="43%" src="https://github-readme-stats.vercel.app/api?username=camillerodriguees&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillerodriguees&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillerodriguees&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
